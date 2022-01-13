@@ -2,28 +2,18 @@
   <img src="banner.png">
 </p>
 
-## The Challenge
-1. Read about the challenge and register at [#100DaysOfCloud.com](https://100DaysOfCloud.com)
-2. Join the [Discord Channel](https://discord.gg/c6Db8nY)
-3. Copy the [100DaysOfCloud/100DaysOfCloud Journey Template](https://github.com/100DaysOfCloud/100DaysOfCloud/generate)
-4. Use the [Micro](Templates/000-DAY-ARTICLE-MICRO-TEMPLATE.md), [Short](Templates/001-DAY-ARTICLE-SHORT-TEMPLATE.md) or [Long](Templates/002-DAY-ARTICLE-LONG-TEMPLATE.md) Day Journey Template and document your day-to-day progress.
-5. Update your main README to link back to your Day Journey article
-4. If you need ideas go to [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
 
-## How to use this template:
-Fill in your details where you see this icon ✍️
-We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [✍️ Your Name]'s Cloud Journey
+## Chinenye's Cloud Journey
 
-[✍️ Introduce yourself]
+Hi! I'm Chinenye and I am currently studying to become an exceptional Cloud Engineer. I'm taking lessons to prepare myself for AWS Solutions Architect Associate Exams.  
 
-[✍️ Tell us why you started this challenge]
+I started this challenge cause I believe it is an execellent way to document my learning process and also help me stay more accountable to myself. 
 
-[✍️ Tell us where you want to be at the end of the challenge]
+By the 100th day, I hope to have gotten the Solutions Architect Associate certificate and also become an exceptional Cloud Engineer.
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- linkedin.com/in/chinenye-udechukwu-b475a21b1
+
 
 ## Stepping out the door
 
