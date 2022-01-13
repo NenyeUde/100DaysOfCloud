@@ -1,52 +1,32 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
+# IAM - Identity Access Management (IAM Users, Groups, Policies)
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+IAM is useed to control who is signed in and has permissions to use resources(Authentication and Authorization). When you create your AWS account, you start with the root user account that has automatic access to all AWS services but, it isn't best practice to use this root user for daily tasks. Rather, create an IAM user with the root user account. With IAM you can securely control access to AWS services and resources for users in your AWS account.
 
-## Prerequisite
+## Users, Groups and Policies 
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+IAM Users - Each IAM User can represent one person in your organization. They can be assigned permissions (we"ll get to that) you can create individual IAM users within your account that correspond to users in your organization. IAM users are not separate accounts; they are users within your account. IAM Users can also be grouped together.
 
-## Use Case
+IAM Groups - Simply put, this is a group of IAM Users. When permissions are assigned to a group, all Users in that group get that permission too. It is important to note which users you add to a group and what permissions are granted to them. Groups only contain Users, you can not create a group inside a group but a user can belong in more than one group.
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+IAM Policies - Access management can be done by creating policies and attaching them to IAM identities or AWS resources. Policies are JSON documents that, when attached to an identity or resource, define their permissions. Basically, it is what a user or a group is allowed to do. This is important cause it helps to save cost, cause users are only allowed to do what they need to do. 
 
-## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
 
 ## Try yourself
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+- Create a user and give them AdministratorAccess
+- Create multiple users and add them to a group. Grant them only S3ReadAccessonly
+- Create an IAM Policy 
 
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
 
 ## ☁️ Cloud Outcome
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+You dont want to lose that document that contains the access ID and secret access key to get into your IAM user account, so make sure to download that document and keepn safe and secure.
 
 ## Next Steps
 
-✍️ Describe what you think you think you want to do next.
+I might want to play around EC2 Instances next. 
 
-## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
