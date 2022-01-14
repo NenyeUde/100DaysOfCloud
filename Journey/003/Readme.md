@@ -32,7 +32,8 @@
 ### Step 1 — Summary of Step
 
 ![![image](https://user-images.githubusercontent.com/88492373/149579686-09480a36-6dab-485b-aa48-c6f090b752bc.png)
-](https://via.placeholder.com/500x300)
+]
+
 
 ### Step 3 — Summary of Step
 
