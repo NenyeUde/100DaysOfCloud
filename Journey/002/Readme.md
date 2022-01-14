@@ -13,8 +13,11 @@ EC2 has provides:
 - INSTANCE TYPES : Amazon EC2 provides a wide selection of instance types optimized to fit different use cases. Instance types comprise varying combinations of CPU, memory, storage, and networking capacity and gives flexibility to choose the appropriate mix of resources for your applications. Instance types are grouped as:
 
  i.   General purpose - General purpose instances are optimized to have a high number of CPU cores, on-demand storage and memory. 
+ 
  ii.  Compute Optimized - The Big Data guys. Compute optimized instances are used to run big data applications that require large amounts of processing power and memory on the AWS cloud.
+ 
  iii. Memory Optimized - Memory optimized instances are designed to deliver fast performance for workloads that process large data sets in memory. They use a high-speed, solid-state drive to provide ultra-fast access to data and deliver high performance. These instances are classic for applications that need more memory and less CPU power.  
+ 
  iv.   Storage Optimized - Storage optimized instances are made for workloads that require high, sequential access to very large data sets on local storage.
 
 - INSTANCE STORE VOLUMES - An instance store provides temporary storage of information that changes frequently, such as buffers, caches, scratch data, and other temporary content, or for data that is replicated across a fleet of instances, such as a load-balanced pool of web servers. Also, stores temporary data that's deleted when you stop, hibernate, or terminate your instance.
