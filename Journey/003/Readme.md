@@ -35,7 +35,8 @@
 
 ### Step 3 — Summary of Step
 
-![Screenshot](https://via.placeholder.com/500x300)
+![Screens![image](https://user-images.githubusercontent.com/88492373/149579185-0cd9d405-7fba-4eb7-97e1-7cb0d0441a86.png)
+hot](https://via.placeholder.com/500x300)
 
 ## ☁️ Cloud Outcome
 
